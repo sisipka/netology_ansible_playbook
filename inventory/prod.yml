@@ -3,3 +3,8 @@ clickhouse:
   hosts:
     clickhouse-01:
       ansible_host: <IP_here>
+
+vector:
+  hosrs:
+    vector-01:
+      ansible_host: <IP_here>
