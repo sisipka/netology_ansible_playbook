@@ -10,7 +10,7 @@
 
 ### Описание Play
 
-Предназначен для установки `clickhouse` и `vector` на 2 docker контейнера(centos): clickhouse-01 и vector-01.
+Предназначен для установки `clickhouse` и `vector` на 2 docker контейнера(centos).
 
 ### Install Vector
 
@@ -21,4 +21,3 @@ __Установлены теги:__
 - `vector` - распаковка установочного архива в домашнюю директорию
 
 - `vector_template` - копирование файла конфигурации
-  
