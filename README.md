@@ -16,10 +16,6 @@
 
 `vector_home` - домашняя директория vector
 
-### Описание Play
-
-Предназначен для установки `clickhouse` и `vector` на 2 docker контейнера(centos): clickhouse-01 и vector-01.
-
 ### Install Vector
 
 __Установлены теги:__
