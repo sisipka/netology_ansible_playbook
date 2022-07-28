@@ -10,7 +10,7 @@
 - name: vector-role
   src: https://github.com/sisipka/vector-role
   scm: git
-  version: 0.0.4git
+  version: 0.0.4
 - src: git@github.com:AlexeySetevoi/ansible-clickhouse.git
   name: clickhouse
   scm: git
